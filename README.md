@@ -5,3 +5,4 @@ Primer repositorio en GitHub para trabajar con RStudio y R en TD
 
 Cosas por hacer:
 - Aprender qué es un Fork.
+- Ya conocemos los botones: push y pull.
